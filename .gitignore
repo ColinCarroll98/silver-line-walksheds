@@ -1,0 +1,12 @@
+# data (document sources in README instead)
+data/raw/
+data/processed/
+*.gpkg
+*.zip
+
+# python / jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# macOS clutter
+.DS_Store

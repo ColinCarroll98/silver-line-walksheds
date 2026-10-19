@@ -1,0 +1,11 @@
+name: gis
+channels:
+  - conda-forge
+dependencies:
+  - pyproj
+  - geopandas
+  - jupyterlab
+  - python=3.12
+  - matplotlib
+  - osmnx
+prefix: /Users/colincarroll/miniforge3/envs/gis
